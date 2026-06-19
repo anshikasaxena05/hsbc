@@ -1,1 +1,1 @@
-print("Hello Git, Anshika Here, this side")
+print("Hello Git, Anshika this side")
